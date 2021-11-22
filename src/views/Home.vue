@@ -52,7 +52,7 @@
    </ul>
    <!--  -->
    <div class="foru">
-     <img src="https://img.youpin.mi-img.com/ink/8714c753_8290_4aea_912f_1c74fd4e7fb8.png@base@tag=imgScale&h=242&w=171" alt="">
+     <router-link to="gouji"><img src="https://img.youpin.mi-img.com/ink/8714c753_8290_4aea_912f_1c74fd4e7fb8.png@base@tag=imgScale&h=242&w=171" alt=""></router-link>
      <img src="https://img.youpin.mi-img.com/ink/d615fb31_f5e8_401d_87a3_692e206a249f.png@base@tag=imgScale&h=242&w=171" alt="">
      <img src="https://img.youpin.mi-img.com/ink/feeac91a_b63c_4a5b_9228_76854b0e70df.png@base@tag=imgScale&h=242&w=171" alt="">
      <img src="https://img.youpin.mi-img.com/ink/516cc4ba_feb6_4276_ae08_55a76445e55f.png@base@tag=imgScale&h=242&w=171" alt="">

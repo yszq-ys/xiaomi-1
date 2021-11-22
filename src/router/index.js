@@ -12,6 +12,7 @@ import Sm from '../views/lxy/sm.vue'
 import Yl from '../views/lxy/yl.vue'
 import Ys from '../views/lxy/ys.vue'
 import Jd from '../views/lxy/jd.vue'
+import gouji from '@/views/gouji'
 
 import Ss from '../views/lxy/ss.vue'
 
@@ -67,6 +68,11 @@ const routes = [
     path: '/my',
     name: 'my',
     component: My
+  },
+  {
+    path: '/gouji',
+    name: 'gouji',
+    component: gouji
   },
  
 ]
